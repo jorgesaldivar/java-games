@@ -1,0 +1,16 @@
+Instructions Battleship
+
+1) Run the BattleshipServidor.java and BattleshipCliente.java
+
+* Execution of BattleshipServidor.java: java BattleshipServidor
+* Execution of BattleshipCliente.java: java BattleshipCliente XXX.XXX.XXX.XXX
+ 
+2) Put the coordinates of the vessels as indicated in each program
+
+3) Once placed and the coordinates of the ships, waiting in the BattleshipServidor to send coordinates BattleshipCliente
+
+* Note: to the coordinates, please use the following format: posicion_en_x, posicion_en_y
+* Example: 4,5
+* Example: 3,4
+
+4) Enjoy the following game
