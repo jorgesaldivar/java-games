@@ -55,7 +55,7 @@ import java.io.InputStreamReader;
 		}
 		
 		//Casos(fileIn);
-		System.out.println("Me salio solo la primera parte, la segunda parte no le entiendo");
+		System.out.println("File read successfully");
 		}
 
 	}
